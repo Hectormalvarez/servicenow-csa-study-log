@@ -1,0 +1,6 @@
+# Vendor material stays on disk, never in a public repo.
+# The guide and specification PDFs are paid or licensed ServiceNow documents; redistributing them is not
+# this project's business. What goes into git is the citation: quoted passages, page numbers, and the URL
+# or file the text came from, recorded in sources/*.md.
+sources/*.pdf
+sources/*.PDF
